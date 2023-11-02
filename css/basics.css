@@ -1,0 +1,50 @@
+/* Tag based styles */
+
+div {
+  /* Element/tag based styles go here ex: div, p, b, span, ul, li, ....... */ 
+}
+
+
+
+
+
+
+/* ---------------------------------------------------------------- */
+
+/* Class based styles */ 
+/* 
+  <div class="test"> </div>
+  <div></div>
+  <p class="test"></p>
+*/
+
+.test {
+  /* Styles apply for specific class name decalred tags */
+}
+
+
+
+
+
+
+/* ---------------------------------------------------------------- */
+
+/* ID based styles */ 
+/*
+  <div></div>
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
